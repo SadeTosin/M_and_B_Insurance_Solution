@@ -1,4 +1,4 @@
-## Live Prediction of Fraudulent Claims in Insurance Company M&B
+## Live Prediction of Fraudulent Claims in Insurance Company
 #### Overview
 This project focuses on utilizing machine learning techniques to predict fraudulent claims in the insurance industry. The aim is to develop a predictive model that can accurately identify potential fraudulent activities, thereby enabling the company to take necessary actions to mitigate risks and losses.
 
