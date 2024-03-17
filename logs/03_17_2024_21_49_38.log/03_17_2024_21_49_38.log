@@ -1,0 +1,36 @@
+[ 2024-03-17 21:50:43,283 ] 5 root - INFO - Entered the data ingestion method or component
+[ 2024-03-17 21:50:43,310 ] 8 root - INFO - Read the dataset as dataframe
+[ 2024-03-17 21:50:43,325 ] 11 root - INFO - Train test split initiated
+[ 2024-03-17 21:50:43,338 ] 15 root - INFO - Inmgestion of the data iss completed
+[ 2024-03-17 21:50:43,367 ] 91 root - INFO - Read train and test data completed
+[ 2024-03-17 21:50:43,367 ] 93 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 21:50:43,367 ] 67 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 21:50:43,367 ] 68 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 21:50:43,372 ] 109 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-03-17 21:54:17,256 ] 5 root - INFO - Entered the data ingestion method or component
+[ 2024-03-17 21:54:17,260 ] 8 root - INFO - Read the dataset as dataframe
+[ 2024-03-17 21:54:17,272 ] 11 root - INFO - Train test split initiated
+[ 2024-03-17 21:54:17,284 ] 15 root - INFO - Inmgestion of the data iss completed
+[ 2024-03-17 21:54:17,305 ] 91 root - INFO - Read train and test data completed
+[ 2024-03-17 21:54:17,305 ] 93 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 21:54:17,305 ] 67 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 21:54:17,314 ] 68 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 21:54:17,318 ] 109 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-03-17 21:56:55,036 ] 5 root - INFO - Entered the data ingestion method or component
+[ 2024-03-17 21:56:55,044 ] 8 root - INFO - Read the dataset as dataframe
+[ 2024-03-17 21:56:55,053 ] 11 root - INFO - Train test split initiated
+[ 2024-03-17 21:56:55,062 ] 15 root - INFO - Inmgestion of the data iss completed
+[ 2024-03-17 21:56:55,088 ] 91 root - INFO - Read train and test data completed
+[ 2024-03-17 21:56:55,088 ] 93 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 21:56:55,088 ] 67 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 21:56:55,088 ] 68 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 21:56:55,088 ] 109 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-03-17 21:58:42,973 ] 5 root - INFO - Entered the data ingestion method or component
+[ 2024-03-17 21:58:42,978 ] 8 root - INFO - Read the dataset as dataframe
+[ 2024-03-17 21:58:42,987 ] 11 root - INFO - Train test split initiated
+[ 2024-03-17 21:58:43,001 ] 15 root - INFO - Inmgestion of the data iss completed
+[ 2024-03-17 21:58:43,032 ] 91 root - INFO - Read train and test data completed
+[ 2024-03-17 21:58:43,032 ] 93 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 21:58:43,033 ] 67 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 21:58:43,033 ] 68 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 21:58:43,037 ] 109 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.

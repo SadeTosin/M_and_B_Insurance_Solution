@@ -1,0 +1,201 @@
+gender,incident_type,collision_type,incident_severity,incident_city,incident_hour_of_the_day,police_report_available,auto_make,auto_model,auto_year,fraud_reported,age,number_of_vehicles_involved,witnesses,vehicle_claim
+FEMALE,Single Vehicle Collision,Front Collision,Major Damage,Riverwood,16_hr,YES,Saab,92x,Year_2015,0,43,1,0,42800
+MALE,Multi-vehicle Collision,Rear Collision,Major Damage,Hillsdale,12_hr,UNKNOWN,Audi,A5,Year_2009,1,26,3,0,50240
+MALE,Multi-vehicle Collision,Rear Collision,Minor Damage,Hillsdale,4_hr,YES,Nissan,Pathfinder,Year_2013,1,25,4,2,50470
+FEMALE,Multi-vehicle Collision,Rear Collision,Total Loss,Arlington,3_hr,UNKNOWN,Chevrolet,Malibu,Year_2015,0,21,3,2,47360
+MALE,Single Vehicle Collision,Rear Collision,Major Damage,Northbend,22_hr,YES,Jeep,Grand Cherokee,Year_2002,1,44,1,1,38780
+FEMALE,Single Vehicle Collision,Side Collision,Total Loss,Northbrook,13_hr,NO,Mercedes,ML350,Year_2009,0,31,1,2,48080
+MALE,Multi-vehicle Collision,Side Collision,Major Damage,Northbrook,16_hr,NO,Saab,95,Year_2007,0,49,3,2,46320
+MALE,Single Vehicle Collision,Front Collision,Major Damage,Northbend,22_hr,YES,BMW,X5,Year_2006,1,43,1,3,42560
+FEMALE,Multi-vehicle Collision,Side Collision,Total Loss,Hillsdale,6_hr,NO,Honda,Civic,Year_1999,0,30,3,3,55860
+MALE,Vehicle Theft,Unknown,Trivial Damage,Northbend,7_hr,UNKNOWN,Accura,MDX,Year_2012,0,55,1,3,4800
+MALE,Single Vehicle Collision,Rear Collision,Minor Damage,Springfield,19_hr,UNKNOWN,Chevrolet,Tahoe,Year_2013,0,46,1,3,53520
+MALE,Parked Car,Unknown,Trivial Damage,Hillsdale,1_hr,NO,Nissan,Ultima,Year_2003,0,33,1,1,3680
+MALE,Multi-vehicle Collision,Rear Collision,Major Damage,Northbend,15_hr,UNKNOWN,Dodge,RAM,Year_2002,0,47,4,1,46680
+MALE,Single Vehicle Collision,Rear Collision,Major Damage,Hillsdale,7_hr,UNKNOWN,Mercedes,E400,Year_2004,1,56,1,3,67440
+MALE,Multi-vehicle Collision,Side Collision,Major Damage,Springfield,3_hr,UNKNOWN,Dodge,Neon,Year_1995,0,35,3,0,61530
+MALE,Single Vehicle Collision,Side Collision,Total Loss,Northbend,6_hr,NO,Dodge,Neon,Year_1996,0,28,1,0,58720
+MALE,Single Vehicle Collision,Side Collision,Major Damage,Riverwood,6_hr,UNKNOWN,Suburu,Legacy,Year_1997,0,23,1,2,32550
+MALE,Single Vehicle Collision,Rear Collision,Major Damage,Hillsdale,2_hr,NO,Saab,92x,Year_1997,1,42,1,1,57440
+FEMALE,Single Vehicle Collision,Rear Collision,Major Damage,Arlington,19_hr,YES,Chevrolet,Malibu,Year_2001,0,30,1,3,51280
+MALE,Multi-vehicle Collision,Front Collision,Total Loss,Springfield,0_hr,NO,BMW,X5,Year_2010,0,40,3,2,34380
+FEMALE,Multi-vehicle Collision,Side Collision,Minor Damage,Columbus,4_hr,UNKNOWN,Nissan,Pathfinder,Year_2006,0,30,4,0,43760
+MALE,Vehicle Theft,Unknown,Minor Damage,Northbrook,6_hr,UNKNOWN,Mercedes,ML350,Year_2015,0,55,1,2,6300
+MALE,Multi-vehicle Collision,Side Collision,Total Loss,Northbend,20_hr,NO,BMW,3 Series,Year_2008,0,36,3,2,36560
+FEMALE,Single Vehicle Collision,Rear Collision,Total Loss,Northbend,0_hr,UNKNOWN,BMW,X6,Year_1995,1,32,1,2,42930
+MALE,Multi-vehicle Collision,Front Collision,Major Damage,Springfield,6_hr,YES,Nissan,Pathfinder,Year_2010,0,26,3,2,25690
+MALE,Single Vehicle Collision,Side Collision,Total Loss,Columbus,8_hr,UNKNOWN,Suburu,Impreza,Year_2001,0,38,1,0,28800
+MALE,Vehicle Theft,Unknown,Trivial Damage,Northbend,7_hr,NO,Accura,MDX,Year_1999,0,44,1,2,4160
+MALE,Single Vehicle Collision,Front Collision,Minor Damage,Arlington,12_hr,NO,BMW,3 Series,Year_1995,0,26,1,0,72320
+MALE,Single Vehicle Collision,Front Collision,Minor Damage,Arlington,23_hr,NO,Ford,Escape,Year_2009,1,41,1,0,58870
+MALE,Single Vehicle Collision,Rear Collision,Major Damage,Northbend,14_hr,YES,Suburu,Legacy,Year_2009,1,22,1,1,62640
+MALE,Multi-vehicle Collision,Rear Collision,Total Loss,Arlington,15_hr,YES,Toyota,Highlander,Year_2003,0,52,2,3,35370
+FEMALE,Parked Car,Unknown,Trivial Damage,Arlington,6_hr,YES,BMW,3 Series,Year_2005,0,29,1,0,4960
+MALE,Multi-vehicle Collision,Front Collision,Major Damage,Arlington,3_hr,YES,Volkswagen,Jetta,Year_2004,0,46,3,3,46240
+FEMALE,Multi-vehicle Collision,Front Collision,Minor Damage,Northbrook,2_hr,NO,Volkswagen,Jetta,Year_2011,0,46,3,0,42080
+MALE,Single Vehicle Collision,Rear Collision,Major Damage,Arlington,2_hr,YES,Audi,A5,Year_1998,0,62,1,1,36540
+FEMALE,Multi-vehicle Collision,Side Collision,Minor Damage,Riverwood,4_hr,NO,Dodge,Neon,Year_1997,0,30,3,2,24360
+FEMALE,Multi-vehicle Collision,Side Collision,Major Damage,Columbus,8_hr,NO,Nissan,Pathfinder,Year_2014,0,39,3,0,48320
+FEMALE,Multi-vehicle Collision,Rear Collision,Minor Damage,Arlington,5_hr,NO,Mercedes,C300,Year_2012,0,50,3,3,44730
+FEMALE,Multi-vehicle Collision,Front Collision,Minor Damage,Hillsdale,21_hr,NO,Ford,Fusion,Year_2010,0,28,2,1,58860
+FEMALE,Vehicle Theft,Unknown,Minor Damage,Riverwood,8_hr,YES,BMW,3 Series,Year_2006,0,30,1,0,3360
+MALE,Single Vehicle Collision,Side Collision,Major Damage,Columbus,0_hr,UNKNOWN,Mercedes,ML350,Year_2015,0,39,1,2,34860
+FEMALE,Vehicle Theft,Unknown,Minor Damage,Northbend,3_hr,NO,Accura,MDX,Year_2015,0,31,1,0,4060
+FEMALE,Multi-vehicle Collision,Front Collision,Total Loss,Riverwood,22_hr,NO,Ford,Fusion,Year_2010,0,35,3,0,34140
+FEMALE,Single Vehicle Collision,Rear Collision,Minor Damage,Arlington,2_hr,UNKNOWN,Ford,Escape,Year_2002,1,33,1,2,67590
+MALE,Single Vehicle Collision,Rear Collision,Total Loss,Arlington,7_hr,NO,Audi,A5,Year_1997,0,40,1,1,33600
+FEMALE,Single Vehicle Collision,Side Collision,Total Loss,Northbrook,23_hr,NO,Nissan,Pathfinder,Year_1998,0,21,1,0,32400
+FEMALE,Single Vehicle Collision,Front Collision,Minor Damage,Columbus,12_hr,YES,Chevrolet,Malibu,Year_1995,0,48,1,3,60160
+FEMALE,Multi-vehicle Collision,Side Collision,Total Loss,Arlington,0_hr,YES,Ford,Escape,Year_2010,0,55,3,3,45440
+MALE,Multi-vehicle Collision,Rear Collision,Minor Damage,Northbrook,3_hr,NO,Toyota,Corolla,Year_2006,0,46,3,0,39920
+FEMALE,Multi-vehicle Collision,Rear Collision,Major Damage,Columbus,3_hr,YES,Chevrolet,Tahoe,Year_1997,1,61,3,1,54670
+FEMALE,Single Vehicle Collision,Side Collision,Total Loss,Northbrook,0_hr,NO,Dodge,Neon,Year_2009,0,36,1,0,44400
+MALE,Multi-vehicle Collision,Front Collision,Minor Damage,Riverwood,19_hr,YES,Nissan,Pathfinder,Year_1998,0,59,3,3,57260
+MALE,Single Vehicle Collision,Side Collision,Total Loss,Riverwood,14_hr,NO,Nissan,Maxima,Year_2013,0,38,1,0,31570
+MALE,Single Vehicle Collision,Rear Collision,Total Loss,Columbus,14_hr,NO,Dodge,Neon,Year_2006,0,31,1,2,44590
+FEMALE,Vehicle Theft,Unknown,Minor Damage,Springfield,6_hr,UNKNOWN,Chevrolet,Malibu,Year_2011,0,41,1,1,2380
+FEMALE,Parked Car,Unknown,Trivial Damage,Arlington,9_hr,UNKNOWN,Suburu,Legacy,Year_2002,0,39,1,1,2580
+FEMALE,Single Vehicle Collision,Front Collision,Minor Damage,Riverwood,8_hr,NO,BMW,X6,Year_1999,0,41,1,2,46160
+FEMALE,Parked Car,Unknown,Trivial Damage,Northbrook,5_hr,UNKNOWN,Audi,A3,Year_2002,0,32,1,2,2000
+MALE,Multi-vehicle Collision,Side Collision,Total Loss,Columbus,12_hr,YES,Chevrolet,Tahoe,Year_2007,0,43,3,0,26880
+MALE,Single Vehicle Collision,Front Collision,Major Damage,Northbrook,11_hr,NO,Dodge,RAM,Year_2000,1,34,1,1,53840
+MALE,Multi-vehicle Collision,Rear Collision,Major Damage,Arlington,2_hr,NO,Accura,TL,Year_2011,1,31,4,2,33390
+MALE,Vehicle Theft,Unknown,Minor Damage,Columbus,4_hr,YES,Mercedes,E400,Year_2002,0,49,1,3,3360
+FEMALE,Multi-vehicle Collision,Rear Collision,Major Damage,Hillsdale,4_hr,UNKNOWN,Jeep,Wrangler,Year_2007,0,54,3,0,43610
+MALE,Multi-vehicle Collision,Rear Collision,Total Loss,Springfield,4_hr,NO,Volkswagen,Jetta,Year_1998,0,33,3,1,25480
+FEMALE,Multi-vehicle Collision,Front Collision,Minor Damage,Columbus,9_hr,UNKNOWN,Ford,F150,Year_2007,0,34,3,1,45600
+MALE,Single Vehicle Collision,Front Collision,Minor Damage,Northbend,16_hr,YES,Honda,Civic,Year_2006,0,53,1,3,48480
+FEMALE,Single Vehicle Collision,Front Collision,Total Loss,Northbend,0_hr,UNKNOWN,Mercedes,C300,Year_1995,0,25,1,1,47460
+FEMALE,Single Vehicle Collision,Side Collision,Major Damage,Hillsdale,12_hr,NO,Nissan,Ultima,Year_2005,0,38,1,1,56320
+MALE,Vehicle Theft,Unknown,Trivial Damage,Hillsdale,1_hr,NO,Chevrolet,Silverado,Year_2010,0,39,1,1,3600
+MALE,Single Vehicle Collision,Side Collision,Total Loss,Northbend,10_hr,YES,Saab,95,Year_1996,1,56,1,1,43620
+FEMALE,Vehicle Theft,Unknown,Trivial Damage,Riverwood,3_hr,NO,Ford,Fusion,Year_2002,0,44,1,1,4270
+MALE,Multi-vehicle Collision,Rear Collision,Minor Damage,Columbus,20_hr,UNKNOWN,Suburu,Impreza,Year_2011,0,62,3,0,41920
+FEMALE,Multi-vehicle Collision,Side Collision,Major Damage,Columbus,7_hr,UNKNOWN,Suburu,Forrestor,Year_1999,0,40,3,0,44870
+MALE,Multi-vehicle Collision,Rear Collision,Minor Damage,Columbus,10_hr,YES,Jeep,Wrangler,Year_2006,0,61,3,1,50470
+MALE,Single Vehicle Collision,Side Collision,Total Loss,Northbend,11_hr,NO,Chevrolet,Silverado,Year_2004,1,32,1,0,33180
+FEMALE,Multi-vehicle Collision,Side Collision,Total Loss,Arlington,15_hr,UNKNOWN,Accura,RSX,Year_1996,0,41,3,2,33110
+FEMALE,Multi-vehicle Collision,Rear Collision,Total Loss,Arlington,14_hr,YES,Nissan,Maxima,Year_1998,1,37,3,2,47280
+MALE,Vehicle Theft,Unknown,Trivial Damage,Northbend,3_hr,UNKNOWN,Chevrolet,Malibu,Year_2009,0,41,1,0,2870
+FEMALE,Single Vehicle Collision,Front Collision,Total Loss,Arlington,10_hr,NO,Chevrolet,Malibu,Year_2009,0,34,1,2,44800
+FEMALE,Single Vehicle Collision,Side Collision,Minor Damage,Columbus,7_hr,UNKNOWN,Suburu,Legacy,Year_2015,0,63,1,3,33880
+MALE,Multi-vehicle Collision,Front Collision,Major Damage,Springfield,18_hr,UNKNOWN,Toyota,Corolla,Year_2002,1,48,3,2,48090
+MALE,Vehicle Theft,Unknown,Minor Damage,Riverwood,8_hr,UNKNOWN,Mercedes,E400,Year_2007,1,42,1,0,3510
+MALE,Multi-vehicle Collision,Rear Collision,Major Damage,Springfield,15_hr,NO,Nissan,Pathfinder,Year_2001,0,37,3,3,32270
+MALE,Vehicle Theft,Unknown,Minor Damage,Springfield,17_hr,NO,Chevrolet,Malibu,Year_2000,0,35,1,3,3570
+MALE,Single Vehicle Collision,Rear Collision,Major Damage,Columbus,15_hr,UNKNOWN,Suburu,Impreza,Year_1996,1,37,1,3,34370
+MALE,Multi-vehicle Collision,Front Collision,Major Damage,Northbend,23_hr,UNKNOWN,Audi,A5,Year_2007,1,54,3,1,43750
+FEMALE,Single Vehicle Collision,Side Collision,Major Damage,Springfield,1_hr,YES,Suburu,Impreza,Year_2011,1,41,1,0,77760
+MALE,Multi-vehicle Collision,Rear Collision,Major Damage,Arlington,17_hr,UNKNOWN,Volkswagen,Passat,Year_2013,1,43,3,1,49420
+FEMALE,Single Vehicle Collision,Front Collision,Major Damage,Northbrook,11_hr,NO,Ford,Fusion,Year_2008,1,36,1,1,51040
+FEMALE,Multi-vehicle Collision,Front Collision,Major Damage,Northbend,0_hr,UNKNOWN,Saab,92x,Year_2000,1,28,3,2,34790
+FEMALE,Single Vehicle Collision,Rear Collision,Minor Damage,Northbrook,2_hr,UNKNOWN,Toyota,Camry,Year_2012,0,32,1,1,37380
+FEMALE,Multi-vehicle Collision,Rear Collision,Minor Damage,Columbus,12_hr,YES,Jeep,Grand Cherokee,Year_2002,0,33,4,3,40390
+MALE,Single Vehicle Collision,Front Collision,Minor Damage,Hillsdale,2_hr,UNKNOWN,Ford,F150,Year_2002,0,43,1,3,42800
+FEMALE,Multi-vehicle Collision,Side Collision,Total Loss,Northbend,15_hr,NO,Saab,95,Year_1999,0,33,3,1,26530
+FEMALE,Single Vehicle Collision,Rear Collision,Minor Damage,Riverwood,18_hr,YES,Dodge,RAM,Year_2010,0,42,1,2,52290
+FEMALE,Single Vehicle Collision,Rear Collision,Total Loss,Arlington,23_hr,NO,Mercedes,E400,Year_2005,0,30,1,2,39760
+MALE,Multi-vehicle Collision,Side Collision,Major Damage,Northbend,15_hr,UNKNOWN,Chevrolet,Silverado,Year_2002,1,31,3,2,51440
+FEMALE,Parked Car,Unknown,Minor Damage,Springfield,7_hr,YES,Suburu,Impreza,Year_2002,0,47,1,1,3870
+MALE,Vehicle Theft,Unknown,Minor Damage,Northbrook,5_hr,YES,Accura,TL,Year_2004,0,26,1,2,3440
+FEMALE,Single Vehicle Collision,Front Collision,Total Loss,Hillsdale,7_hr,UNKNOWN,Suburu,Forrestor,Year_2009,0,30,1,3,54080
+FEMALE,Single Vehicle Collision,Rear Collision,Total Loss,Arlington,10_hr,NO,Volkswagen,Passat,Year_2008,0,38,1,1,49490
+MALE,Multi-vehicle Collision,Front Collision,Major Damage,Columbus,14_hr,NO,Mercedes,E400,Year_2013,1,32,3,2,35560
+MALE,Multi-vehicle Collision,Side Collision,Total Loss,Springfield,14_hr,NO,Saab,93,Year_2013,0,41,3,0,61520
+FEMALE,Multi-vehicle Collision,Rear Collision,Total Loss,Northbrook,14_hr,YES,Saab,93,Year_1995,0,33,3,1,30940
+MALE,Single Vehicle Collision,Rear Collision,Major Damage,Riverwood,12_hr,UNKNOWN,Honda,CRV,Year_1995,0,32,1,3,46620
+FEMALE,Multi-vehicle Collision,Front Collision,Minor Damage,Springfield,15_hr,YES,Suburu,Forrestor,Year_1999,1,44,3,2,46830
+MALE,Single Vehicle Collision,Rear Collision,Minor Damage,Northbrook,4_hr,UNKNOWN,BMW,M5,Year_2004,1,41,1,0,43920
+MALE,Single Vehicle Collision,Front Collision,Total Loss,Northbend,17_hr,NO,Mercedes,C300,Year_2007,1,35,1,3,64480
+FEMALE,Vehicle Theft,Unknown,Trivial Damage,Springfield,5_hr,NO,Saab,95,Year_1998,0,40,1,1,6120
+FEMALE,Multi-vehicle Collision,Front Collision,Total Loss,Northbend,22_hr,NO,Audi,A3,Year_2014,0,46,3,2,59680
+MALE,Multi-vehicle Collision,Rear Collision,Minor Damage,Northbend,14_hr,NO,Toyota,Camry,Year_2012,0,27,4,0,42960
+MALE,Multi-vehicle Collision,Front Collision,Minor Damage,Hillsdale,15_hr,YES,Audi,A3,Year_2010,0,43,3,2,53970
+MALE,Single Vehicle Collision,Side Collision,Minor Damage,Springfield,23_hr,NO,Honda,CRV,Year_2011,0,45,1,1,71820
+FEMALE,Multi-vehicle Collision,Rear Collision,Major Damage,Hillsdale,11_hr,UNKNOWN,Honda,Civic,Year_2003,1,25,3,0,53760
+MALE,Parked Car,Unknown,Trivial Damage,Northbend,20_hr,NO,Toyota,Camry,Year_2010,0,40,1,2,3850
+FEMALE,Multi-vehicle Collision,Rear Collision,Major Damage,Springfield,11_hr,NO,Saab,93,Year_1996,1,48,4,2,39600
+FEMALE,Multi-vehicle Collision,Side Collision,Total Loss,Springfield,17_hr,NO,Audi,A3,Year_2010,0,39,3,3,20510
+MALE,Single Vehicle Collision,Side Collision,Major Damage,Arlington,13_hr,UNKNOWN,Chevrolet,Malibu,Year_1996,0,42,1,1,68480
+FEMALE,Multi-vehicle Collision,Rear Collision,Total Loss,Riverwood,21_hr,UNKNOWN,Suburu,Impreza,Year_2007,0,39,3,1,43260
+MALE,Multi-vehicle Collision,Side Collision,Total Loss,Columbus,0_hr,YES,Jeep,Grand Cherokee,Year_1999,0,47,3,3,33300
+FEMALE,Multi-vehicle Collision,Side Collision,Minor Damage,Riverwood,17_hr,YES,Jeep,Wrangler,Year_1995,0,29,3,3,57960
+MALE,Single Vehicle Collision,Side Collision,Minor Damage,Springfield,18_hr,UNKNOWN,Nissan,Maxima,Year_2001,0,39,1,2,39270
+MALE,Single Vehicle Collision,Side Collision,Total Loss,Columbus,12_hr,YES,Saab,93,Year_2005,0,44,1,0,49360
+FEMALE,Single Vehicle Collision,Side Collision,Total Loss,Hillsdale,19_hr,NO,Chevrolet,Silverado,Year_1995,0,50,1,0,31220
+FEMALE,Single Vehicle Collision,Front Collision,Major Damage,Springfield,7_hr,YES,Honda,Civic,Year_1998,1,34,1,1,28980
+FEMALE,Single Vehicle Collision,Rear Collision,Minor Damage,Northbrook,14_hr,UNKNOWN,Accura,MDX,Year_2006,0,21,1,0,44030
+MALE,Single Vehicle Collision,Side Collision,Minor Damage,Columbus,5_hr,UNKNOWN,Dodge,RAM,Year_2009,0,47,1,3,44720
+FEMALE,Multi-vehicle Collision,Rear Collision,Minor Damage,Northbend,11_hr,YES,Toyota,Camry,Year_2005,0,34,3,2,40040
+MALE,Multi-vehicle Collision,Front Collision,Total Loss,Springfield,0_hr,UNKNOWN,Dodge,Neon,Year_2004,0,36,3,3,56320
+FEMALE,Single Vehicle Collision,Rear Collision,Major Damage,Arlington,9_hr,NO,Dodge,Neon,Year_2013,0,29,1,0,52960
+MALE,Multi-vehicle Collision,Front Collision,Major Damage,Arlington,6_hr,YES,Suburu,Forrestor,Year_2000,1,31,3,3,45360
+MALE,Multi-vehicle Collision,Rear Collision,Minor Damage,Hillsdale,8_hr,UNKNOWN,Dodge,RAM,Year_1995,1,33,3,0,55280
+MALE,Multi-vehicle Collision,Rear Collision,Minor Damage,Arlington,23_hr,UNKNOWN,Jeep,Wrangler,Year_2006,0,42,3,0,31840
+FEMALE,Single Vehicle Collision,Front Collision,Major Damage,Northbrook,18_hr,UNKNOWN,Accura,TL,Year_2002,1,58,1,1,76400
+MALE,Single Vehicle Collision,Front Collision,Minor Damage,Springfield,19_hr,NO,Accura,MDX,Year_2006,0,45,1,2,43040
+MALE,Parked Car,Unknown,Trivial Damage,Arlington,4_hr,UNKNOWN,Saab,93,Year_2003,0,31,1,2,3360
+MALE,Vehicle Theft,Unknown,Minor Damage,Northbrook,3_hr,UNKNOWN,Honda,Civic,Year_2010,0,44,1,0,4500
+MALE,Single Vehicle Collision,Front Collision,Total Loss,Riverwood,4_hr,YES,BMW,3 Series,Year_2012,0,44,1,2,26240
+FEMALE,Parked Car,Unknown,Minor Damage,Arlington,7_hr,NO,BMW,X5,Year_2013,1,31,1,0,2520
+MALE,Vehicle Theft,Unknown,Trivial Damage,Arlington,8_hr,YES,Ford,F150,Year_2011,0,35,1,3,3600
+MALE,Parked Car,Unknown,Minor Damage,Riverwood,16_hr,NO,Jeep,Wrangler,Year_2015,0,30,1,1,2940
+MALE,Single Vehicle Collision,Rear Collision,Minor Damage,Springfield,9_hr,UNKNOWN,Jeep,Wrangler,Year_2009,0,56,1,0,30000
+FEMALE,Multi-vehicle Collision,Side Collision,Major Damage,Hillsdale,12_hr,UNKNOWN,Audi,A3,Year_2003,1,42,2,3,49680
+FEMALE,Single Vehicle Collision,Side Collision,Minor Damage,Hillsdale,14_hr,NO,Volkswagen,Passat,Year_2000,1,57,1,0,32560
+MALE,Single Vehicle Collision,Side Collision,Major Damage,Springfield,23_hr,YES,Volkswagen,Jetta,Year_2004,1,60,1,2,58410
+FEMALE,Single Vehicle Collision,Side Collision,Major Damage,Springfield,11_hr,NO,Dodge,RAM,Year_2006,1,47,1,3,59670
+FEMALE,Single Vehicle Collision,Front Collision,Major Damage,Northbrook,6_hr,YES,Volkswagen,Jetta,Year_1997,1,41,1,2,53480
+MALE,Single Vehicle Collision,Side Collision,Major Damage,Springfield,23_hr,UNKNOWN,Toyota,Camry,Year_2005,0,28,1,3,29760
+MALE,Single Vehicle Collision,Side Collision,Total Loss,Northbrook,13_hr,YES,Ford,Escape,Year_2007,0,35,1,0,53920
+MALE,Multi-vehicle Collision,Side Collision,Minor Damage,Columbus,14_hr,NO,Chevrolet,Silverado,Year_2008,0,39,3,1,34440
+FEMALE,Single Vehicle Collision,Rear Collision,Minor Damage,Springfield,20_hr,UNKNOWN,Nissan,Maxima,Year_2013,0,43,1,0,46830
+MALE,Parked Car,Unknown,Minor Damage,Hillsdale,18_hr,NO,Jeep,Wrangler,Year_2011,0,37,1,0,5360
+FEMALE,Multi-vehicle Collision,Rear Collision,Minor Damage,Riverwood,2_hr,UNKNOWN,Accura,RSX,Year_2010,0,52,2,0,68400
+FEMALE,Multi-vehicle Collision,Side Collision,Major Damage,Columbus,12_hr,UNKNOWN,Accura,MDX,Year_2011,1,25,3,0,39480
+MALE,Multi-vehicle Collision,Side Collision,Total Loss,Riverwood,10_hr,NO,Jeep,Wrangler,Year_2006,1,26,3,3,61760
+FEMALE,Single Vehicle Collision,Rear Collision,Major Damage,Columbus,10_hr,NO,Mercedes,E400,Year_1995,1,29,1,2,40770
+MALE,Multi-vehicle Collision,Side Collision,Total Loss,Arlington,5_hr,NO,Volkswagen,Jetta,Year_1999,0,37,3,3,34000
+MALE,Single Vehicle Collision,Side Collision,Total Loss,Hillsdale,17_hr,YES,Audi,A3,Year_1999,0,37,1,1,48600
+FEMALE,Vehicle Theft,Unknown,Minor Damage,Arlington,10_hr,YES,Nissan,Pathfinder,Year_2007,0,46,1,3,3420
+FEMALE,Multi-vehicle Collision,Side Collision,Minor Damage,Springfield,21_hr,UNKNOWN,Nissan,Maxima,Year_2012,0,35,3,0,57520
+FEMALE,Multi-vehicle Collision,Rear Collision,Total Loss,Northbend,3_hr,UNKNOWN,Ford,F150,Year_2011,0,28,4,1,45200
+MALE,Multi-vehicle Collision,Rear Collision,Major Damage,Columbus,16_hr,YES,BMW,X5,Year_2011,0,43,3,0,51520
+FEMALE,Single Vehicle Collision,Front Collision,Total Loss,Riverwood,19_hr,YES,BMW,X5,Year_2015,0,44,1,2,47180
+MALE,Single Vehicle Collision,Front Collision,Major Damage,Arlington,3_hr,UNKNOWN,Ford,Fusion,Year_2013,1,31,1,0,47200
+MALE,Multi-vehicle Collision,Rear Collision,Total Loss,Northbrook,17_hr,YES,Suburu,Legacy,Year_1999,0,37,3,1,56320
+FEMALE,Single Vehicle Collision,Rear Collision,Major Damage,Hillsdale,18_hr,YES,Dodge,RAM,Year_2003,1,43,1,3,47740
+FEMALE,Single Vehicle Collision,Rear Collision,Total Loss,Springfield,12_hr,YES,Dodge,Neon,Year_2003,1,38,1,2,33600
+FEMALE,Multi-vehicle Collision,Front Collision,Total Loss,Hillsdale,21_hr,UNKNOWN,Volkswagen,Jetta,Year_2003,0,49,3,2,48400
+MALE,Multi-vehicle Collision,Rear Collision,Total Loss,Hillsdale,21_hr,NO,Saab,92x,Year_1995,1,43,4,0,34160
+FEMALE,Multi-vehicle Collision,Side Collision,Major Damage,Springfield,6_hr,UNKNOWN,Dodge,Neon,Year_2004,1,40,3,0,34020
+MALE,Single Vehicle Collision,Rear Collision,Major Damage,Northbrook,4_hr,YES,Dodge,Neon,Year_2011,0,43,1,2,36120
+MALE,Single Vehicle Collision,Front Collision,Major Damage,Riverwood,17_hr,NO,Honda,Civic,Year_2014,0,48,1,1,41580
+MALE,Vehicle Theft,Unknown,Minor Damage,Northbend,3_hr,NO,Ford,Fusion,Year_2011,0,47,1,3,4320
+FEMALE,Single Vehicle Collision,Front Collision,Minor Damage,Northbend,8_hr,YES,Audi,A3,Year_2002,0,44,1,0,73260
+MALE,Single Vehicle Collision,Side Collision,Major Damage,Riverwood,21_hr,NO,Nissan,Maxima,Year_2004,1,61,1,3,41720
+FEMALE,Multi-vehicle Collision,Rear Collision,Total Loss,Columbus,5_hr,NO,Saab,95,Year_2003,0,36,3,1,36190
+MALE,Single Vehicle Collision,Front Collision,Total Loss,Springfield,0_hr,UNKNOWN,Nissan,Maxima,Year_1995,0,28,1,1,30730
+MALE,Multi-vehicle Collision,Side Collision,Minor Damage,Northbrook,20_hr,UNKNOWN,Nissan,Ultima,Year_2014,0,48,2,1,31140
+FEMALE,Multi-vehicle Collision,Front Collision,Major Damage,Riverwood,3_hr,UNKNOWN,Ford,Fusion,Year_2009,0,43,3,1,53010
+FEMALE,Single Vehicle Collision,Front Collision,Total Loss,Riverwood,13_hr,YES,Audi,A3,Year_2002,0,30,1,0,48020
+FEMALE,Single Vehicle Collision,Side Collision,Minor Damage,Northbend,9_hr,YES,Volkswagen,Passat,Year_2010,0,30,1,0,41920
+MALE,Single Vehicle Collision,Side Collision,Minor Damage,Riverwood,11_hr,NO,Suburu,Forrestor,Year_2003,0,40,1,2,47810
+FEMALE,Single Vehicle Collision,Rear Collision,Total Loss,Riverwood,10_hr,NO,Ford,F150,Year_2001,0,37,1,1,37100
+FEMALE,Single Vehicle Collision,Front Collision,Major Damage,Northbend,21_hr,NO,Audi,A5,Year_2005,1,48,1,0,42910
+FEMALE,Single Vehicle Collision,Rear Collision,Total Loss,Hillsdale,2_hr,YES,Accura,RSX,Year_2007,0,31,1,0,55120
+MALE,Parked Car,Unknown,Minor Damage,Northbend,6_hr,YES,Honda,Civic,Year_1996,0,30,1,2,4860
+FEMALE,Multi-vehicle Collision,Rear Collision,Minor Damage,Arlington,14_hr,NO,Nissan,Ultima,Year_2002,0,26,3,0,35820
+FEMALE,Single Vehicle Collision,Side Collision,Minor Damage,Columbus,22_hr,YES,Audi,A5,Year_2000,0,20,1,3,36270
+MALE,Multi-vehicle Collision,Side Collision,Total Loss,Northbend,23_hr,YES,Nissan,Pathfinder,Year_2010,0,55,3,1,61880
+MALE,Multi-vehicle Collision,Rear Collision,Major Damage,Springfield,20_hr,NO,Ford,Fusion,Year_1999,0,44,3,2,50800
+FEMALE,Single Vehicle Collision,Rear Collision,Minor Damage,Hillsdale,4_hr,YES,Ford,Fusion,Year_2015,0,38,1,3,63000
+FEMALE,Multi-vehicle Collision,Side Collision,Major Damage,Springfield,2_hr,UNKNOWN,Ford,Escape,Year_2013,1,31,3,2,54390
+FEMALE,Multi-vehicle Collision,Side Collision,Total Loss,Hillsdale,18_hr,YES,Toyota,Highlander,Year_2005,1,34,4,3,47320
+MALE,Single Vehicle Collision,Rear Collision,Minor Damage,Arlington,22_hr,UNKNOWN,Accura,MDX,Year_1999,0,30,1,3,24360
+FEMALE,Single Vehicle Collision,Side Collision,Minor Damage,Springfield,9_hr,YES,Nissan,Pathfinder,Year_2012,0,48,1,2,26040
+MALE,Multi-vehicle Collision,Front Collision,Major Damage,Northbend,23_hr,UNKNOWN,Saab,92x,Year_1998,1,38,3,3,38640
+MALE,Single Vehicle Collision,Side Collision,Minor Damage,Hillsdale,4_hr,NO,Nissan,Pathfinder,Year_2007,1,29,1,2,34960
+MALE,Single Vehicle Collision,Side Collision,Minor Damage,Northbrook,22_hr,NO,Chevrolet,Silverado,Year_1995,0,39,1,1,25200
+FEMALE,Multi-vehicle Collision,Rear Collision,Major Damage,Northbrook,21_hr,NO,Chevrolet,Tahoe,Year_2002,1,23,3,2,46000
+MALE,Parked Car,Unknown,Trivial Damage,Riverwood,8_hr,YES,Dodge,RAM,Year_2015,0,34,1,3,3710

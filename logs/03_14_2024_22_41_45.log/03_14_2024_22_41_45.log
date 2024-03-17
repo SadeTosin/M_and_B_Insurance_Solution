@@ -1,0 +1,79 @@
+[ 2024-03-14 22:50:01,203 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2024-03-14 23:10:52,521 ] 224 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.17:5000
+[ 2024-03-14 23:10:52,521 ] 224 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2024-03-14 23:14:06,507 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Mar/2024 23:14:06] "GET / HTTP/1.1" 200 -
+[ 2024-03-14 23:14:06,629 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Mar/2024 23:14:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-03-14 23:15:03,954 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Mar/2024 23:15:03] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-03-14 23:15:56,237 ] 1741 __main__ - ERROR - Exception on /predictdata [POST]
+Traceback (most recent call last):
+  File "<stdin>", line 4, in load_object
+EOFError: Ran out of input
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<stdin>", line 9, in predict
+  File "<stdin>", line 6, in load_object
+  File "<stdin>", line 4, in __init__
+  File "<stdin>", line 2, in error_message_detail
+TypeError: cannot unpack non-iterable module object
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\FOLASADE\anaconda3\Lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\FOLASADE\anaconda3\Lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\FOLASADE\anaconda3\Lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\FOLASADE\anaconda3\Lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<stdin>", line 20, in predict_datapoint
+  File "<stdin>", line 16, in predict
+  File "<stdin>", line 4, in __init__
+  File "<stdin>", line 2, in error_message_detail
+TypeError: cannot unpack non-iterable module object
+[ 2024-03-14 23:15:56,240 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Mar/2024 23:15:56] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2024-03-14 23:30:14,817 ] 1741 __main__ - ERROR - Exception on /predictdata [POST]
+Traceback (most recent call last):
+  File "<stdin>", line 4, in load_object
+EOFError: Ran out of input
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<stdin>", line 9, in predict
+  File "<stdin>", line 6, in load_object
+  File "<stdin>", line 4, in __init__
+  File "<stdin>", line 2, in error_message_detail
+TypeError: cannot unpack non-iterable module object
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\FOLASADE\anaconda3\Lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\FOLASADE\anaconda3\Lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\FOLASADE\anaconda3\Lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\FOLASADE\anaconda3\Lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<stdin>", line 20, in predict_datapoint
+  File "<stdin>", line 16, in predict
+  File "<stdin>", line 4, in __init__
+  File "<stdin>", line 2, in error_message_detail
+TypeError: cannot unpack non-iterable module object
+[ 2024-03-14 23:30:14,817 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Mar/2024 23:30:14] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -

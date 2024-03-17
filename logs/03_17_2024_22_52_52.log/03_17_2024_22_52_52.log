@@ -1,0 +1,28 @@
+[ 2024-03-17 22:52:53,214 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2024-03-17 22:52:55,827 ] 5 root - INFO - Entered the data ingestion method or component
+[ 2024-03-17 22:52:55,843 ] 8 root - INFO - Read the dataset as dataframe
+[ 2024-03-17 22:52:55,858 ] 11 root - INFO - Train test split initiated
+[ 2024-03-17 22:52:55,874 ] 15 root - INFO - Inmgestion of the data iss completed
+[ 2024-03-17 22:52:55,908 ] 91 root - INFO - Read train and test data completed
+[ 2024-03-17 22:52:55,908 ] 93 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 22:52:55,908 ] 67 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 22:52:55,912 ] 68 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 22:52:55,915 ] 109 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-03-17 22:53:03,041 ] 5 root - INFO - Entered the data ingestion method or component
+[ 2024-03-17 22:53:03,048 ] 8 root - INFO - Read the dataset as dataframe
+[ 2024-03-17 22:53:03,061 ] 11 root - INFO - Train test split initiated
+[ 2024-03-17 22:53:03,073 ] 15 root - INFO - Inmgestion of the data iss completed
+[ 2024-03-17 22:53:03,099 ] 91 root - INFO - Read train and test data completed
+[ 2024-03-17 22:53:03,100 ] 93 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 22:53:03,100 ] 67 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 22:53:03,100 ] 68 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 22:53:03,100 ] 109 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-03-17 22:59:50,954 ] 5 root - INFO - Entered the data ingestion method or component
+[ 2024-03-17 22:59:50,954 ] 8 root - INFO - Read the dataset as dataframe
+[ 2024-03-17 22:59:50,972 ] 11 root - INFO - Train test split initiated
+[ 2024-03-17 22:59:50,979 ] 15 root - INFO - Inmgestion of the data iss completed
+[ 2024-03-17 22:59:51,004 ] 91 root - INFO - Read train and test data completed
+[ 2024-03-17 22:59:51,004 ] 93 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 22:59:51,004 ] 67 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 22:59:51,014 ] 68 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 22:59:51,017 ] 109 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.

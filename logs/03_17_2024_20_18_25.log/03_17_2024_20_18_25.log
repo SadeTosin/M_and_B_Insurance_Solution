@@ -1,0 +1,10 @@
+[ 2024-03-17 20:18:26,335 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2024-03-17 20:18:29,290 ] 5 root - INFO - Entered the data ingestion method or component
+[ 2024-03-17 20:18:29,303 ] 8 root - INFO - Read the dataset as dataframe
+[ 2024-03-17 20:18:29,318 ] 11 root - INFO - Train test split initiated
+[ 2024-03-17 20:18:29,332 ] 15 root - INFO - Inmgestion of the data iss completed
+[ 2024-03-17 20:18:29,362 ] 91 root - INFO - Read train and test data completed
+[ 2024-03-17 20:18:29,362 ] 93 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 20:18:29,363 ] 67 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 20:18:29,364 ] 68 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 20:18:29,367 ] 109 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.

@@ -1,0 +1,81 @@
+[ 2024-03-17 15:03:32,052 ] 46 root - INFO - Read train and test data completed
+[ 2024-03-17 15:03:32,053 ] 47 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 15:03:32,053 ] 33 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 15:03:32,053 ] 34 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 15:03:32,059 ] 54 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-03-17 15:05:34,195 ] 46 root - INFO - Read train and test data completed
+[ 2024-03-17 15:05:34,195 ] 47 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 15:05:34,195 ] 33 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 15:05:34,195 ] 34 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 15:05:34,197 ] 54 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-03-17 15:05:34,219 ] 15 root - ERROR - Custom exception occurred: Error occured in python script name [<stdin>] line number [57] error message[all the input arrays must have same number of dimensions, but the array at index 0 has 1 dimension(s) and the array at index 1 has 2 dimension(s)]
+[ 2024-03-17 15:12:51,523 ] 46 root - INFO - Read train and test data completed
+[ 2024-03-17 15:12:51,523 ] 47 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 15:12:51,523 ] 33 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 15:12:51,523 ] 34 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 15:12:51,523 ] 54 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-03-17 15:12:51,550 ] 15 root - ERROR - Custom exception occurred: Error occured in python script name [<stdin>] line number [59] error message[all the input arrays must have same number of dimensions, but the array at index 0 has 1 dimension(s) and the array at index 1 has 2 dimension(s)]
+[ 2024-03-17 15:17:09,306 ] 5 root - INFO - Entered the data ingestion method or component
+[ 2024-03-17 15:17:09,320 ] 8 root - INFO - Read the dataset as dataframe
+[ 2024-03-17 15:17:09,339 ] 11 root - INFO - Train test split initiated
+[ 2024-03-17 15:17:09,350 ] 15 root - INFO - Ingestion of the data is completed
+[ 2024-03-17 15:17:09,396 ] 640 root - INFO - Read train and test data completed
+[ 2024-03-17 15:17:09,396 ] 641 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 15:17:09,396 ] 626 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 15:17:09,396 ] 627 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 15:17:09,399 ] 648 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-03-17 15:17:57,317 ] 5 root - INFO - Entered the data ingestion method or component
+[ 2024-03-17 15:17:57,324 ] 8 root - INFO - Read the dataset as dataframe
+[ 2024-03-17 15:17:57,339 ] 11 root - INFO - Train test split initiated
+[ 2024-03-17 15:17:57,351 ] 15 root - INFO - Ingestion of the data is completed
+[ 2024-03-17 15:18:20,222 ] 46 root - INFO - Read train and test data completed
+[ 2024-03-17 15:18:20,222 ] 47 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 15:18:20,222 ] 33 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 15:18:20,222 ] 34 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 15:18:20,224 ] 54 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-03-17 15:18:20,253 ] 15 root - ERROR - Custom exception occurred: Error occured in python script name [<stdin>] line number [59] error message[all the input arrays must have same number of dimensions, but the array at index 0 has 1 dimension(s) and the array at index 1 has 2 dimension(s)]
+[ 2024-03-17 15:35:50,215 ] 46 root - INFO - Read train and test data completed
+[ 2024-03-17 15:35:50,215 ] 47 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 15:35:50,215 ] 33 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 15:35:50,215 ] 34 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 15:35:50,215 ] 54 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-03-17 15:35:50,244 ] 11 root - ERROR - Custom exception occurred: Error occured in python script name [<stdin>] line number [57] error message[all the input arrays must have same number of dimensions, but the array at index 0 has 1 dimension(s) and the array at index 1 has 2 dimension(s)]
+[ 2024-03-17 15:40:47,884 ] 46 root - INFO - Read train and test data completed
+[ 2024-03-17 15:40:47,884 ] 47 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 15:40:47,884 ] 33 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 15:40:47,884 ] 34 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 15:40:47,887 ] 54 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-03-17 15:40:47,918 ] 11 root - ERROR - Custom exception occurred: Error occured in python script name [<stdin>] line number [57] error message[all the input arrays must have same number of dimensions, but the array at index 0 has 1 dimension(s) and the array at index 1 has 2 dimension(s)]
+[ 2024-03-17 15:41:08,190 ] 46 root - INFO - Read train and test data completed
+[ 2024-03-17 15:41:08,190 ] 47 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 15:41:08,190 ] 33 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 15:41:08,191 ] 34 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 15:41:08,192 ] 54 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-03-17 15:41:08,208 ] 11 root - ERROR - Custom exception occurred: Error occured in python script name [<stdin>] line number [57] error message[all the input arrays must have same number of dimensions, but the array at index 0 has 1 dimension(s) and the array at index 1 has 2 dimension(s)]
+[ 2024-03-17 15:50:51,316 ] 46 root - INFO - Read train and test data completed
+[ 2024-03-17 15:50:51,316 ] 47 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 15:50:51,316 ] 33 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 15:50:51,317 ] 34 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 15:50:51,320 ] 54 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-03-17 15:50:51,365 ] 11 root - ERROR - Custom exception occurred: Error occured in python script name [<stdin>] line number [57] error message[all the input arrays must have same number of dimensions, but the array at index 0 has 1 dimension(s) and the array at index 1 has 2 dimension(s)]
+[ 2024-03-17 15:52:16,626 ] 5 root - INFO - Entered the data ingestion method or component
+[ 2024-03-17 15:52:16,634 ] 8 root - INFO - Read the dataset as dataframe
+[ 2024-03-17 15:52:16,644 ] 11 root - INFO - Train test split initiated
+[ 2024-03-17 15:52:16,657 ] 15 root - INFO - Ingestion of the data is completed
+[ 2024-03-17 15:52:47,365 ] 640 root - INFO - Read train and test data completed
+[ 2024-03-17 15:52:47,365 ] 641 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 15:52:47,365 ] 626 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 15:52:47,365 ] 627 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 15:52:47,366 ] 648 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-03-17 15:54:43,219 ] 46 root - INFO - Read train and test data completed
+[ 2024-03-17 15:54:43,219 ] 47 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 15:54:43,219 ] 33 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 15:54:43,219 ] 34 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 15:54:43,224 ] 54 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-03-17 15:54:43,249 ] 11 root - ERROR - Custom exception occurred: Error occured in python script name [<stdin>] line number [57] error message[all the input arrays must have same number of dimensions, but the array at index 0 has 1 dimension(s) and the array at index 1 has 2 dimension(s)]
+[ 2024-03-17 16:00:27,838 ] 46 root - INFO - Read train and test data completed
+[ 2024-03-17 16:00:27,838 ] 47 root - INFO - Obtaining preprocessing object
+[ 2024-03-17 16:00:27,838 ] 33 root - INFO - Categorical columns: ['gender', 'incident_type', 'collision_type', 'incident_severity', 'incident_city', 'incident_hour_of_the_day', 'police_report_available', 'auto_make', 'auto_model', 'auto_year']
+[ 2024-03-17 16:00:27,838 ] 34 root - INFO - Numerical columns: ['age', 'number_of_vehicles_involved', 'witnesses', 'vehicle_claim']
+[ 2024-03-17 16:00:27,842 ] 54 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-03-17 16:00:27,878 ] 11 root - ERROR - Custom exception occurred: Error occured in python script name [<stdin>] line number [57] error message[all the input arrays must have same number of dimensions, but the array at index 0 has 1 dimension(s) and the array at index 1 has 2 dimension(s)]

@@ -29,37 +29,65 @@ class PredictPipeline:
 class CustomData:
     def __init__(  self,
         gender: str,
-        race_ethnicity: str,
-        parental_level_of_education,
-        lunch: str,
-        test_preparation_course: str,
-        reading_score: int,
-        writing_score: int):
+        incident_type: str,
+        collision_type: str,
+        incident_severity: str,
+        incident_city: str,
+        incident_hour_of_the_day: str,	
+        police_report_available: str,
+        auto_make: str,
+        auto_model: str,
+        auto_year: str,
+        age: int,
+        number_of_vehicles_involved: int,
+        witnesses: int,
+        vehicle_claim: int):
 
         self.gender = gender
 
-        self.race_ethnicity = race_ethnicity
+        self.incident_type = incident_type
 
-        self.parental_level_of_education = parental_level_of_education
+        self.collision_type = collision_type
 
-        self.lunch = lunch
+        self.incident_severity = incident_severity
 
-        self.test_preparation_course = test_preparation_course
+        self.incident_city = incident_city
 
-        self.reading_score = reading_score
+        self.incident_hour_of_the_day = incident_hour_of_the_day
 
-        self.writing_score = writing_score
+        self.police_report_available = police_report_available
+
+        self.auto_make = auto_make
+
+        self.auto_model = auto_model
+
+        self.auto_year = auto_year
+
+        self.age = age
+
+        self.number_of_vehicles_involved = number_of_vehicles_involved
+
+        self.witnesses = witnesses
+
+        self.vehicle_claim = vehicle_claim
 
     def get_data_as_data_frame(self):
         try:
             custom_data_input_dict = {
                 "gender": [self.gender],
-                "race_ethnicity": [self.race_ethnicity],
-                "parental_level_of_education": [self.parental_level_of_education],
-                "lunch": [self.lunch],
-                "test_preparation_course": [self.test_preparation_course],
-                "reading_score": [self.reading_score],
-                "writing_score": [self.writing_score],
+                "incident_type": [self.incident_type],
+                "collision_type": [self.collision_type],
+                "incident_severity": [self.incident_severity],
+                "incident_city": [self.incident_city],
+                "incident_hour_of_the_day": [self.incident_hour_of_the_day],
+                "police_report_available": [self.police_report_available],
+                "auto_make": [self.auto_make],
+                "auto_model": [self.auto_model],
+                "auto_year": [self.auto_year],
+                "age": [self.age],
+                "number_of_vehicles_involved": [self.number_of_vehicles_involved],
+                "witnesses": [self.witnesses],
+                "vehicle_claim": [self.vehicle_claim]
             }
 
             return pd.DataFrame(custom_data_input_dict)
